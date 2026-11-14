@@ -3,7 +3,10 @@ import pyautogui
 
 # Put the lines you want to send inside this list
 lines = [
-"The capacity to love is determined by the fact that man is ready to seek the good consciously with others, to subordinate himself to this good because of others, or to subordinate himself to others because of this good.",
+"Line 1",
+"Line 2",
+"Line 3",
+  #..... put as much line you want and it'll spam on any chatbox.
 ]
 
 # Gives you 5 seconds to click into the Discord message box
